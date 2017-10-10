@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "the library makes a counter on the screen",
-    "repository": "https://github.com/ThalissonMelo/ElmCounter",
+    "repository": "https://github.com/thalissonmelo/elmcounter.git",
     "license": "BSD3",
     "source-directories": [
         "."
