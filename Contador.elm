@@ -15,7 +15,9 @@ module Contador
 
 # Description
 
-The functions bellow makes a counter
+The functions bellow makes a counter on the screen and when you press
+the button '+', the program makes a adction one on a model and when you press '-',
+the program reduce one on the model text on the screen
 
 -}
 
